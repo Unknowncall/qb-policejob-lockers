@@ -1,0 +1,26 @@
+{
+  "propertyClaims": [
+    {
+      "id": "MRPD-PropertyClaim",
+      "ped": {
+        "x": 455.00,
+        "y": -980.09,
+        "z": 30.69,
+        "h": 88.77
+      },
+      "minZ": 29.69,
+      "maxZ": 31.09
+    },
+    {
+      "id": "Jail-PropertyClaim",
+      "ped": {
+        "x": 1844.00,
+        "y": 2587.00,
+        "z": 45.00,
+        "h": 178.77
+      },
+      "minZ": 44.00,
+      "maxZ": 46.00
+    }
+  ]
+}

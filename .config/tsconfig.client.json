@@ -1,0 +1,8 @@
+{
+  "include": ["../src/index.client.ts", "../src/**/common/**/*", "../src/**/client/**/*"],
+  "exclude": ["node_modules", "**/__tests__/"],
+  "extends": "../tsconfig.json",
+  "compilerOptions": {
+    "types": ["@citizenfx/client", "node", "@types/node"]
+  }
+}
